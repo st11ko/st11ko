@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @st11ko
+- 👀 I’m interested in sQl database systems
+- 🌱 I’m currently learning c++ c# and going soon into python and java
+- 💞️ I’m looking to collaborate on some small projects and learn
+- 📫 How to reach me, contact me on discord: -st1ko-#6969
